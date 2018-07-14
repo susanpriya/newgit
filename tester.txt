@@ -1,0 +1,38 @@
+3D\ Objects
+abc.txt
+AppData
+Application\ Data
+Contacts
+Cookies
+Desktop
+Documents
+Downloads
+Favorites
+IntelGraphicsProfiles
+Links
+Local\ Settings
+MicrosoftEdgeBackups
+Music
+My\ Documents
+NetHood
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{7c67e42b-5e99-11e8-9afa-141877b766da}.TM.blf
+NTUSER.DAT{7c67e42b-5e99-11e8-9afa-141877b766da}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{7c67e42b-5e99-11e8-9afa-141877b766da}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+OneDrive
+Pictures
+PrintHood
+Recent
+Saved\ Games
+Searches
+SendTo
+shalini
+Start\ Menu
+Templates
+test.txt
+tester.txt
+Tracing
+Videos
